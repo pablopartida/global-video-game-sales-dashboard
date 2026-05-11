@@ -51,7 +51,7 @@ Users can explore video game performance by:
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Preview](dashboard-overview1.png)
+![Dashboard Preview](images/dashboard-overview1.png)
 
 ---
 
